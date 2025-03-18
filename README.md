@@ -11,10 +11,10 @@
 
 ---
 
-- **이름**: 
-- **학번**: 
-- **이메일**: 
-- **GitHub 프로필**: 
+- **이름**: 장여정
+- **학번**: 20241513
+- **이메일**: yeojeong735@gmail.com
+- **GitHub 프로필**: [yeojeong735](https://github.com/yeojeong735)
 
 ---
 
